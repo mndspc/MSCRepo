@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{FA5158AC-5D5E-437F-93A0-C90EF620D6DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALTest", "DALTest\DALTest.csproj", "{ACBD1CA4-D416-46D7-9AF1-BA27D5F87923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppServiceLayer", "AppServiceLayer\AppServiceLayer.csproj", "{483DC8D6-296B-43DE-B772-A58C0A0ACB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA5158AC-5D5E-437F-93A0-C90EF620D6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5158AC-5D5E-437F-93A0-C90EF620D6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5158AC-5D5E-437F-93A0-C90EF620D6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5158AC-5D5E-437F-93A0-C90EF620D6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACBD1CA4-D416-46D7-9AF1-BA27D5F87923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBD1CA4-D416-46D7-9AF1-BA27D5F87923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBD1CA4-D416-46D7-9AF1-BA27D5F87923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBD1CA4-D416-46D7-9AF1-BA27D5F87923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483DC8D6-296B-43DE-B772-A58C0A0ACB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483DC8D6-296B-43DE-B772-A58C0A0ACB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483DC8D6-296B-43DE-B772-A58C0A0ACB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483DC8D6-296B-43DE-B772-A58C0A0ACB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B28496-28E7-47D8-8394-6FCCF71466D1}
+	EndGlobalSection
+EndGlobal

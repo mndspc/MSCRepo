@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fa5158ac-5d5e-437f-93a0-c90ef620d6da": {
+      "ProjectGuid": "fa5158ac-5d5e-437f-93a0-c90ef620d6da",
+      "DisplayName": "DAL",
+      "ColorIndex": 0
+    },
+    "acbd1ca4-d416-46d7-9af1-ba27d5f87923": {
+      "ProjectGuid": "acbd1ca4-d416-46d7-9af1-ba27d5f87923",
+      "DisplayName": "DALTest",
+      "ColorIndex": 1
+    },
+    "4862e786-058b-4d3c-8e32-515ec5d2c474": {
+      "ProjectGuid": "4862e786-058b-4d3c-8e32-515ec5d2c474",
+      "DisplayName": "AppServiceLayer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "483dc8d6-296b-43de-b772-a58c0a0acb81": {
+      "ProjectGuid": "483dc8d6-296b-43de-b772-a58c0a0acb81",
+      "DisplayName": "AppServiceLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
