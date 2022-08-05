@@ -9,3 +9,15 @@ E:\Revamped Content\Extra Projects\Phase-4\MoviesShowCase\DAL\obj\Debug\DAL.pdb
 E:\Revamped Content\Extra Projects\Phase-4\MoviesShowCase\DAL\bin\Debug\DAL.dll.config
 E:\Revamped Content\Extra Projects\Phase-4\MoviesShowCase\DAL\bin\Debug\DAL.dll
 E:\Revamped Content\Extra Projects\Phase-4\MoviesShowCase\DAL\obj\Debug\DAL.dll
+E:\Revamped Content\Extra Projects\Phase-4\MSC\MoviesShowCase\DAL\bin\Debug\DAL.dll.config
+E:\Revamped Content\Extra Projects\Phase-4\MSC\MoviesShowCase\DAL\bin\Debug\DAL.dll
+E:\Revamped Content\Extra Projects\Phase-4\MSC\MoviesShowCase\DAL\bin\Debug\DAL.pdb
+E:\Revamped Content\Extra Projects\Phase-4\MSC\MoviesShowCase\DAL\bin\Debug\EntityFramework.dll
+E:\Revamped Content\Extra Projects\Phase-4\MSC\MoviesShowCase\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Revamped Content\Extra Projects\Phase-4\MSC\MoviesShowCase\DAL\bin\Debug\EntityFramework.xml
+E:\Revamped Content\Extra Projects\Phase-4\MSC\MoviesShowCase\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Revamped Content\Extra Projects\Phase-4\MSC\MoviesShowCase\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Revamped Content\Extra Projects\Phase-4\MSC\MoviesShowCase\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Revamped Content\Extra Projects\Phase-4\MSC\MoviesShowCase\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Revamped Content\Extra Projects\Phase-4\MSC\MoviesShowCase\DAL\obj\Debug\DAL.dll
+E:\Revamped Content\Extra Projects\Phase-4\MSC\MoviesShowCase\DAL\obj\Debug\DAL.pdb

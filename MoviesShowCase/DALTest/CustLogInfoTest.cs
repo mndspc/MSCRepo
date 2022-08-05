@@ -59,7 +59,7 @@ namespace DALTest
         [TestCase(1)]
         public void GetMovieById(int id)
         {
-            var flag = false;
+            
             Mock<IMoviesDAL<Movie>> mockObject = new Mock<IMoviesDAL<Movie>>();
 
             mockObject.Setup(m => m.GetMovieById(id)).Returns(new Movie { MovieId = 1, Title = "3 Idiots", Genere = Genre.Drama, OverAllRating = 9, DirectorID = 2, Country = "India", ProductionYear = 2009 });
@@ -72,23 +72,7 @@ namespace DALTest
             Assert.AreEqual(expectedMovie.MovieId, actualResult.MovieId);
         }
 
-        [Test]
-        [TestCase(1)]
-        public void DeleteMovieTest(int id)
-        {
-            Mock<IMoviesDAL<Movie>> mockObject = new Mock<IMoviesDAL<Movie>>();
-            var flag = false;
-        
-            mockObject.Setup(m => m.DeleteMovie(id)).Returns(flag);
-            Mock.Verify();
-            var result = mockObject.Object;
-            //Actual Result
-            var movieDALResult = result.DeleteMovie(id);
-
-            //Expected Result
-            Assert.True(movieDALResult);
-        }
-
+       
 
         [Test]
         public void UpdateMovieTest()
